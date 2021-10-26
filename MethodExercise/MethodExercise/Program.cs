@@ -48,33 +48,27 @@ namespace MethodExercise
 
         /// Exercise 2
         public static int myAdditon(int x, int y)
-        {
-
-            return x + y;
-            
+        {           
+            return x + y;            
         }
 
         public static int mySubtraction(int a, int b)
         {
-            return a - b;
-            
+            return a - b;            
         }
 
         public static int myMultiplication(int c, int d)
-        {
-            
+        {            
             return c * d;
         }
 
         public static int myDivision(int e, int f)
-        {
-            
+        {            
             return e / f;
         }
 
         public static int myRemainder(int j, int k)
         {
-
             return j % k;
         }
 
